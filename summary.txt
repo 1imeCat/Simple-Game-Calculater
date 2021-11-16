@@ -1,0 +1,14 @@
+The program consists of 3 python files
+Main, Crawler, Calculator
+
+Main - get user input to provide information about game items
+command list
+1. Update - call Crawler to collect current item values
+2. Price [item] - provied certain item price
+3. Profit [item] - return net profit of certain item
+4. Recipe [item] - return ingredients to make [item]
+5. Exit - Exit program
+
+Crawler - automatically collect item prices
+
+Calculator - contains item recipes and calculate net profit of product from ingredients(consider market fees)
